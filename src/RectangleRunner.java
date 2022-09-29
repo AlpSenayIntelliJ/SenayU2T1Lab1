@@ -1,4 +1,4 @@
-public class RectangleRunner {
+public class RectangleRunner  {
     public static void main(String[] args) {
 
         // creating one instance/object from the Rectangle class "blueprint"

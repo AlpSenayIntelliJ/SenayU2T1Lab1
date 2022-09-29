@@ -1,5 +1,5 @@
 // Rectangle class definition
-public class Rectangle {
+public class Rectangle  {
 
     // instance variables
     private int length;
